@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Nandan</h1>
 <h3 align="center">A Passionate Python Developer.</h3>
 <br/>
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA"/>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1040798/screenshots/15685874/media/aa9588469e19517c2b94b1addd15d11d.gif"/>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-seven-lovat-62.vercel.app/](https://portfolio-seven-lovat-62.vercel.app/)
 
